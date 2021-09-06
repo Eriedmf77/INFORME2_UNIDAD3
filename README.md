@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/85728185/122873688-b1ff8480-d2f7-11eb-8db4-6c559deb9572.png)
 
-# INDUCTOR Y CAPACITOR
+# CARACTERÍSTICAS DE LA ONDA SINUOIDAL
 
 ### Fundamento de circuitos electricos
 ### Ingeniero  Darwin Omar Alulema Flores
@@ -49,12 +49,14 @@ _7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece e
 del osciloscopio?_
 
 Amplitud de voltaje: ____________(V)
+
 Periodo: ____________(s)
 
 _7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida._
 
 f: _____________(Hz)
+
 ω: ____________(rad/s)
 
 _7.5.7. Con el multímetro digital mida el voltaje de salida en RL:_
