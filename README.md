@@ -26,6 +26,21 @@ _Comprender de forma analitica el funcionamineto de las señales senoidales y en
 
 _Analizar analiticamente los valores obtenidos mediante los calculos y con la ayuda del simulador que valores toma dicho circuito y  comparar dicho resultado con los valores calculados mediante el calculo de error de dicho circuito._
 
+## REQUISITOS PREVIOS
+
+_Investigue la representación de la onda senoidal, tanto en su forma gráfica como
+en su forma matemática._
+
+## INFORMACION GENERAL
+
+_Se denomina corriente alterna (ca) a la corriente eléctrica en la que la magnitud y
+dirección varían periódicamente. La forma de onda de la corriente alterna más
+comúnmente utilizada es la de una onda senoidal, puesto que se consigue una transmisión
+más eficiente de la energía._
+
+_Generalmente, la corriente alterna se refiere a la forma en la cual la electricidad
+llega a los hogares y a las empresas. Sin embargo, las señales de audio y de radio
+transmitidas por los cables eléctricos, son también ejemplos de corriente alterna._
 
 ## Materiales
 
