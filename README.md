@@ -18,9 +18,9 @@ _Determinar experimentalmente las características de señales senoidales._
 
 ***Objetivos especificos***
 
-_ Interpretar señales senoidales  de la corriente que fluye a traves  de un circuito basico  para comprender dichas señales mediante la simulación de dicho circuito en proramas virtuales (DCACLAB) para asi tener mayor entendimiento de que produce dicha corriente en el osciloscopio._
-
 _Construir un circuito que represente señales senoidales mediante simuladores virtuales._
+
+_Interpretar señales senoidales de la corriente que fluye a traves de un circuito basico para comprender dichas señales mediante la simulación de dicho circuito en proramas virtuales (DCACLAB) para asi tener mayor entendimiento de que producir dicha corriente en el osciloscopio._
 
 _Comprender de forma analitica el funcionamineto de las señales senoidales y entender por que motivo llega hasta cierta amplitud y ciclo._
 
