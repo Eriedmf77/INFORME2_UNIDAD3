@@ -33,6 +33,8 @@ _Analizar analiticamente los valores obtenidos mediante los calculos y con la ay
 
 ## 2. MARCO TEÓRICO 
 
+![image](https://user-images.githubusercontent.com/85259801/132377978-3fec477f-e847-443c-aef6-9a0c3b3c79c4.png)
+
 
 ## 3. PROCEDIMIENTO
 
