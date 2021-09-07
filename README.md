@@ -101,6 +101,10 @@ _No coinciden ya que el valor medido en el punto 7.5.5. es amplitud de voltaje o
 
 ## 6. CONCLUSIONES
 
+_Con forme a lo realizado sabemos que el osciloscopio nos ayuda a medir señales de onda de un circuito eléctrico esto con la finalidad de que podamos ver que no haya interrupciones en el mismo. 
+
+_Estas ondas normalmente es descrita como funciones seno que repite el mismo patrón a intervalos regulares que varía continuamente con el tiempo._
+Las gráficas de las ondas seno son frecuencia con amplitud constante que son modificadas de acuerdo a la frecuencia dada, y controladas mediante perillas que se encuentran en el osciloscopio._
 
 
 ## 7. BIBLIOGRAFÍA
