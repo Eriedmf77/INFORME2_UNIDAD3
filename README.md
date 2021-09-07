@@ -96,6 +96,9 @@ _Robbins, A. H. (2008). Analisis de circuitos. Mexico: Imagen Editorial._
 
 _Scobar, F. (23 de 02 de 2017). EcuRed. Obtenido de EcuRed: https://www.ecured.cu/Onda_senoidal#:~:text=Onda%20senoidal%20representa%20el%20valor,marcados%20en%20amplitud%20y%20tiempo.&text=Tambi%C3%A9n%20responden%20a%20la%20misma,de%20las%20ondas%20de%20radio._
 
+_Figueroa, R. (15 de 11 de 2013). liferder. Obtenido de liferder: https://www.lifeder.com/onda-senoidal/_
+
+_Figueroa, D. 2005. Electromagnetismo. Serie Física para Ciencias e Ingeniería. Volumen 6. Editado por D. Figueroa. Universidad Simón Bolívar. 115 y 244-245._
 
 
 
