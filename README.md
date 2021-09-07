@@ -73,7 +73,7 @@ del osciloscopio?_
 
 Amplitud de voltaje: 6.84(V)
 
-Periodo: o.4m(s)
+Periodo: 0.4m(s)
 
 _7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida._
@@ -82,7 +82,7 @@ f: 2.5 kHz o 2500Hz
 
 ω: ![image](https://user-images.githubusercontent.com/84418933/132284618-703bf843-df8c-45b2-85dd-b55a0690aeb1.png)
 
-_7.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
+_7.5.7. Con el multímetro digital mida el voltaje de salida en RL:_ 
 
 ![image](https://user-images.githubusercontent.com/85259801/132272107-03d61e89-eb32-4219-a9bc-02124c8b418d.png)
 
