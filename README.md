@@ -92,7 +92,7 @@ _7.5.8. Comparar el voltaje medido en el punto 7.5.5. y el obtenido en el punto 
 
 ## 7. BIBLIOGRAFÍA
 
-
+_Robbins, A. H. (2008). Analisis de circuitos. Mexico: Imagen Editorial._
 
 
 
