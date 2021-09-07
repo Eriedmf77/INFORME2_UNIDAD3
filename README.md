@@ -114,6 +114,7 @@ _No coinciden ya que el valor medido en el punto 7.5.5. es amplitud de voltaje o
 
 https://youtu.be/kj9dAPi-2GU
 
+
 ## 6. CONCLUSIONES
 
 _Con forme a lo realizado sabemos que el osciloscopio nos ayuda a medir señales de onda de un circuito eléctrico esto con la finalidad de que podamos ver que no haya interrupciones en el mismo._
