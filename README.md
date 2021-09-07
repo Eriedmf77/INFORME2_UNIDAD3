@@ -29,6 +29,7 @@ _Analizar analiticamente los valores obtenidos mediante los calculos y con la ay
 
 ## Materiales
 
+![image](https://user-images.githubusercontent.com/85728185/132267430-566043d9-c8ee-49c1-adc8-34a303c528be.png)
 
 ## 2. MARCO TEÓRICO 
 
